@@ -22,3 +22,13 @@ public class SecretSanta { // Four Days of S.S.
         }          
     }
 }
+/*
+ OUTPUT:
+On the first day of Christmas, my S.S. gave to me: a bag full of candy
+
+On the second day of Christmas, my S.S. gave to me: a twix and two clues
+
+On the third day of Christmas, my S.S. gave to me: uhm...nothing
+
+On the fourth day of Christmas, my S.S. gave to me: a giftcard, socks, etc.
+*/

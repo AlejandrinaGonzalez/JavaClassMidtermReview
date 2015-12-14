@@ -20,3 +20,16 @@ public class ChristmasTree {
         out.println("*"); // the stump!
     }
 }
+/*
+ OUTPUT:
+ Please enter a number: 7
+       *
+      ***
+     *****
+    *******
+   *********
+  ***********
+ *************
+       * 
+ 
+ */
